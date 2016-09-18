@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_menu_1"
+        android:title="View Foods" />
+
+    <item
+        android:id="@+id/nav_menu_2"
+        android:title="View Food Alternatives" />
+
+    <item
+        android:id="@+id/nav_menu_3"
+        android:title="Consult Food Adviser" />
+
+    <item
+        android:id="@+id/nav_menu_4"
+        android:title="Edit Details" />
+</menu>

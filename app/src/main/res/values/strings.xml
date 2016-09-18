@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food Adviser Application</string>
+    <string name="app_name_short">FAAD</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
